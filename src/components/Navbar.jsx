@@ -40,13 +40,6 @@ export default function Navbar() {
           ))}
         </div>
 
-        <a
-          href="#contact"
-          className="primary-button hidden !px-4 !py-2 text-sm md:inline-flex"
-        >
-          Let's Talk
-        </a>
-
         <button
           type="button"
           className="rounded-lg border border-gray-700 p-2 text-white md:hidden"
